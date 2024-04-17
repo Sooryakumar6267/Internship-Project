@@ -1,0 +1,30 @@
+Autism Spectrum Disorder Screening using Machine Learning
+
+Introduction:
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition associated with significant healthcare costs, and early diagnosis can significantly reduce these. Unfortunately, waiting times for an ASD diagnosis 
+are lengthy and procedures are not cost effective. The economic impact of Autism and the increase in the number of ASD cases across the world reveals an urgent need for the development of easily implemented and
+effective screening methods. Therefore, a time-efficient and accessible ASD screening is imminent to help health professionals and inform individuals whether they should pursue formal clinical diagnosis.
+
+The rapid growth in the number of ASD cases worldwide necessitates datasets related to behaviour traits. However, such datasets are rare making it difficult to perform thorough analyses to improve the efficiency, 
+sensitivity, specificity and predictive accuracy of the ASD screening process. Presently, very limited Autism datasets associated with clinical or screening are available and most of them are genetic in nature.
+
+About this Data
+Hence, we propose a new dataset related to Autism screening of adults that contains 20 features to be utilised for further analysis especially in determining influential Autism traits and improving the 
+classification of ASD cases. In this dataset, we record ten behavioural features (AQ-10-Adult) plus ten individuals characteristics that have proved to be effective in detecting the ASD cases from controls in 
+behaviour science.
+
+In recent times, the application of Machine Learning to cross-disciplinary subjects have been very active and successful, especially in the fields of biology and neurology. Many researchers are interested in 
+creating computational frameworks for automatically generating patterns and trends in large medical data-sets. A learned data representation can help visualise data to assist humans in clinical decision making 
+and predict a target variable from a set of input features.
+
+The data selected for this project is the Autism Spectrum Disorder (ASD) screening data for adults. ASD refers to several related disorders that normally begin in childhood and continue in adulthood. There is no 
+cure for ASD, but treatments can help to improve symptoms. As per HSE (2017), the symptoms can include:
+• Social interaction where it is difficult to understand situations and other people’s feelings and emotions.
+• Difficulties to communicate, which can involve delayed language development, also not being able to take part in conversations properly.
+• Unusual physical behaviour such as doing repetitive physical movements, which becomes a routine, then the behaviour becomes routine and the individual can get upset if the routine is disrupted.
+• The ASD symptoms can vary from person to person, and it can classify in three main types. The most typical type is “Autism disorder”, followed by “Asperger syndrome” and “pervasive developmental disorder” (PDD).
+• The third one is also known as ‘atypical Autism ’. ASD are estimated to affect 1 in every 100 children and boys are more likely to develop ASD than girls by four times.
+
+Pursuing such research necessitates working with datasets that record information related to behavioural traits and other factors such as gender, age, ethnicity, etc. Such datasets are rare, making it difficult to 
+perform thorough analyses to improve the efficiency, sensitivity, specificity and predictive accuracy of the ASD screening process. At present, very limited autism datasets associated with clinical or screening are
+available and most of them are genetic in nature. These data are extremely sensitive and hard to collect for social and personal reasons and the regulations around them.
